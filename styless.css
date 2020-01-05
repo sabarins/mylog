@@ -1,0 +1,36 @@
+.wel
+{
+	background:#87CEEB;
+	background-repeat:no-repeat;
+	background-size: cover;
+	font-family:Bauhaus 93;
+}
+.bgcol
+{
+	background-image:url('hap.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+	font-family:algerian;
+}
+.boxe
+{
+	background:#ff66cc;
+	font-family:Copperplate Gothic Bold;
+}
+.or
+{
+	background:#fed8b1;
+	font-family:French Script MT;
+}
+.pon
+{
+	background-image:url('pongal.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+	font-family:Curlz MT;
+}
+.anim
+{
+	font-family:Colonna MT;
+
+}

@@ -1,0 +1,21 @@
+body{
+	margin:0;
+	padding:0;
+	background-image:url(new.jpg);
+	background-size: cover;
+	font-family: algerian;
+	background-repeat:no-repeat;
+}
+.box
+{
+	position:absolute;
+	top:60%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	background:#fff;
+	width:500 px;
+	padding:60px;
+	box-sizing:border-box;
+	border:1px solid rfba(0,0,0,.1);
+	box-shadow:0 5px 10px rgba(0,0,0,.2);
+}
